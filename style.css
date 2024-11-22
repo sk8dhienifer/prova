@@ -1,0 +1,17 @@
+  body{
+    background-color:#fff;
+ }
+ header{
+    background-color:#333;
+    color:white;
+    padding:50px;
+ }
+ section{
+    background-calor:#f4f4f4;
+    padding:5px;
+ }
+ footer{
+    background-color:#333;
+    color:white;
+    padding:30px;
+ }
